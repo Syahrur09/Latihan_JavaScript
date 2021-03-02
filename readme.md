@@ -50,13 +50,13 @@ car = {
     dsb
 }
 
-#Constructor atau Prototype
+## Constructor atau Prototype
 
 Dibeberapa language ini sering disebut class, didalam javascript disebut Constructor atau Prototype.
 
 Constructor, kita bisa membuat banyak instance, contohnya cunstructor car bisa membuat object baru misalnya toyota, daihatsu, honda dsb.
 
-#inheritance (turunan)
+## inheritance (turunan)
 
 Apa turunan dari car ?
 
@@ -86,7 +86,7 @@ car = {
     }
 }
 
-#Constructor Function
+## Constructor Function
 
 function(){ ... }
 
